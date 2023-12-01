@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+
+}
+
+header {
+    background: linear-gradient(to top, #ffffff, #000000);
+    padding: 150px;
+    text-align: center;
+    color: white;
+}
+
+nav a {
+    float: center;
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 9px 10px;
+    text-decoration: none;
+}
+
+
+
